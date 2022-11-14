@@ -4,12 +4,12 @@ import javax.persistence.*;
 @Entity
 
 public class Student {
-	@Id
-	@GeneratedValue
-	int id;
-	String namee;
-	int age;
-	public int getId() {
+//	@Id
+//	@GeneratedValue
+//	int id;
+//	String namee;
+//	int age;
+//	public int getId() {
 		return id;
 	}
 	public void setId(int id) {
