@@ -1,6 +1,6 @@
 package heibernatepro;
 import javax.persistence.*;
-
+//14/11/2022,14:36 right now this is my time
 @Entity
 
 public class Student {
